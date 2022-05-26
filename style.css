@@ -12,3 +12,7 @@ body {
 section {
 	padding-top: 5rem;
 }
+
+.carousel-inner img {
+  margin: auto;
+}
